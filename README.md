@@ -1,6 +1,6 @@
 # IaC Examples Repository
 
-Welcome to the Infrastructure as Code (IaC) Examples Repository! This open-source project aims to create a comprehensive collection of example configurations, templates, and scripts for cloud services across the major providers: AWS, Google Cloud, and Azure. Whether you're a cloud enthusiast, a developer, or an IT professional, your contributions can help others navigate the complexities of cloud infrastructure.
+Welcome to the Infrastructure as Code (IaC) Examples Repository! This open-source project aims to create a comprehensive collection of example configurations, templates, and scripts for cloud services across the major providers: AWS, Google Cloud, and Azure. Whether you're a cloud enthusiast, a developer, or an IT professional, your contributions can help others navigate the complexities of cloud infrastructure. Feel free to use whatever service, language or provider you see fit. From the AWS-CDK to Terraform we want to house examples of all.
 
 ## Contributing
 
