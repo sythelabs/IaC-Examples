@@ -1,0 +1,82 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+# TypeScript build output
+dist/
+*.js
+*.d.ts
+!bin/vector-database.js
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+!.env.example
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Application build artifacts
+application/__pycache__/
+application/*.pyc
+application/*.pyo
+application/*.pyd
+application/.Python
+application/build/
+application/develop-eggs/
+application/dist/
+application/downloads/
+application/eggs/
+application/.eggs/
+application/lib/
+application/lib64/
+application/parts/
+application/sdist/
+application/var/
+application/wheels/
+application/*.egg-info/
+application/.installed.cfg
+application/*.egg
+
+# Sample client build artifacts
+samples/__pycache__/
+samples/*.pyc
+
+# Temporary files
+tmp/
+temp/ 
